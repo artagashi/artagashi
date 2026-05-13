@@ -1,16 +1,15 @@
-## Hi there 👋
+# ⚠️ This account is archived
 
-<!--
-**artagashi/artagashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td align="center">
+      <h2>🎯 Active account → <a href="https://github.com/artagashiii"><code>artagashiii</code></a></h2>
+      <p>All current projects, contributions, and repos are there now.</p>
+      <h3>Come find me → <a href="https://github.com/artagashiii">github.com/artagashiii</a></h3>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on readmess
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*This account is kept for legacy purposes only.*
